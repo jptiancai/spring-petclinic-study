@@ -3,6 +3,17 @@ spring-petclinic-study
 
 > Just petclinic of Analysis document. 
 
+##类图
+
+- model
+![model](uml pic/model.png)
+- repository
+![repository](uml pic/repository.png)
+- service
+![service](uml pic/service.png)
+- jpa
+![jpa](uml pic/jpa.png)
+
 ##架构
 
 演讲中的结构画的图称得上一图千言,不过还是要简单的总结一下
