@@ -21,7 +21,7 @@ spring-petclinic-study
 - 视图层
 
 (?):JSP自定义标签或者Thymeleaf
-css+(允许maven管理css和js类库):webjar+(Datatables,boostrap theme,pdf export..):Dandelion
+css+(允许maven管理css和js类库):[webjar](http://www.webjars.org/)+(Datatables,boostrap theme,pdf export..):Dandelion
 
 - 控制层(难点)
 
